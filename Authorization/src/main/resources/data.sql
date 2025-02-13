@@ -1,0 +1,5 @@
+INSERT INTO BLOCKLIST (USER_ID)
+VALUES
+    (1),
+    (2),
+    (3);
